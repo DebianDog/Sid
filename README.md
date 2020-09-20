@@ -3,7 +3,7 @@
 Based on the Debian 'sid' branch but **without systemd**.  
 It's using special method (taken from **AntiX**) to avoid systemd by replacing systemd with 'elogind'
    
-[Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=117255)   
+[Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=824)   
 **Custom repositories:** [32-bit](https://doglinux.github.io/sidog/i386/) [64-bit](https://doglinux.github.io/sidog/amd64/)  
 
 ### Login details:
