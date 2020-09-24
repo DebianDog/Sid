@@ -30,11 +30,11 @@ Default WM - OpenBox,
 Default File Manager and providing Desktop - PcmanFM.
 Not much applications installed, only e.g. Firefox, viewnior, leafpad etc.. and system/module tools
 
-### Downloads:      
+### Downloads: (updated "full" ISO's to 20200923)         
 - Basic, 64-bit [DebianDog-Sid-basic-20200920_amd64-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-basic-20200920_amd64-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-basic-20200920_amd64-UEFI.md5)   
 - Basic, 32-bit [DebianDog-Sid-basic-20200920_i386-pae-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-basic-20200920_i386-pae-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-basic-20200920_i386-pae-UEFI.md5)  
-- Full, 64-bit [DebianDog-Sid-full-20200920_amd64-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200920_amd64-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200920_amd64-UEFI.md5)
-- Full, 32-bit [DebianDog-Sid-full-20200920_i386-pae-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200920_i386-pae-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200920_i386-pae-UEFI.md5)  
+- Full, 64-bit [DebianDog-Sid-full-20200923_amd64-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200923_amd64-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200923_amd64-UEFI.md5)
+- Full, 32-bit [DebianDog-Sid-full-20200923_i386-pae-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200923_i386-pae-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20200923_i386-pae-UEFI.md5)  
 
 Firmware (mostly for wifi):[Firmware squashfs](https://github.com/DebianDog/Sid/releases/download/v0.2/99-firmware-sid.squashfs)
 
