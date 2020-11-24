@@ -14,7 +14,7 @@ It's using special method (taken from **AntiX**) to avoid systemd by replacing s
  
 **Specifications:**  Updated 2020-11-24             
 Choice of Boot Methods: porteus-boot and live-boot v3 (see for options [Here](https://github.com/DebianDog/Sid/raw/master/Examples-boot-codes.txt))     
-**- Full:**
+**- Full:**   
 Kernel: 5.9.0-3 (the kernel is separate module)  
 Default WM - OpenBox, with Desktop choices (run 'Desktop Manager' to choose):    
 - Tint2 panels    
