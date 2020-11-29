@@ -32,7 +32,7 @@ Default File Manager and providing Desktop - PcmanFM.
 Not much applications installed, only e.g. Firefox, viewnior, leafpad etc.. and system/module tools
 
 ### Downloads: (updated "full" ISO's to 20201125)
-**EDIT 2020-11-29:** Discontinued the "basic", ISO's removed
+**EDIT 2020-11-29:** Discontinued the "basic", ISO's removed   
 Changes and Fixes, see here: https://forum.puppylinux.com/viewtopic.php?p=5509#p5509
 - Full, 64-bit [DebianDog-Sid-full-20201125-overlay_amd64-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20201125-overlay_amd64-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20201125-overlay_amd64-UEFI.md5)
 - Full, 32-bit [DebianDog-Sid-full-20201125-overlay_i386-pae-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20201125-overlay_i386-pae-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-full-20201125-overlay_i386-pae-UEFI.md5)     
