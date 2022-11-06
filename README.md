@@ -30,7 +30,7 @@ Option to switch to JWM window-manager
 Default File Manager - PcmanFM with option to use rox.        
 Default Internet Browser - Firefox-ESR.
 
-### Downloads: (updated "full" ISO's to 20201125)
+### Downloads: (updated "full" ISO to 20221106)
 **EDIT 2020-11-29:** Discontinued the "basic", ISO's removed   
 Changes and Fixes, see here: https://forum.puppylinux.com/viewtopic.php?p=5509#p5509
 - 64-bit [DebianDog-Sid-20221106-usr-merged_amd64-UEFI.iso](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-20221106-usr-merged_amd64-UEFI.iso) / [md5sum](https://github.com/DebianDog/Sid/releases/download/v0.1/DebianDog-Sid-20221106-usr-merged_amd64-UEFI.md5)
